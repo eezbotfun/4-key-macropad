@@ -1,5 +1,5 @@
 # 4-key-macropad
-macro pad with LCD 
+4 key macro pad with LCD 
 ![IMG_1047](https://github.com/user-attachments/assets/65f893c5-6c2c-4f0d-a240-51d2a7ae2cd6)
 
 # Feautures
