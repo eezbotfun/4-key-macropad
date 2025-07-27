@@ -13,5 +13,5 @@
 8. Support dynamic profile changing (based on active app window)
 9. Support Script
 
-#### **Discord**
+# Discord
 https://discord.gg/j7AJvjHQ7X
