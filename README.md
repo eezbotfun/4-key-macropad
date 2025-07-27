@@ -12,3 +12,6 @@
 7. Support launching applications, opening folders, accessing websites, simulating mouse move and click, etc.
 8. Support dynamic profile changing (based on active app window)
 9. Support Script
+
+#### **Discord**
+https://discord.gg/j7AJvjHQ7X
