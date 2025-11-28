@@ -2,6 +2,9 @@
 4 key macro pad with LCD 
 ![IMG_1047](https://github.com/user-attachments/assets/65f893c5-6c2c-4f0d-a240-51d2a7ae2cd6)
 
+![with dongle](https://github.com/user-attachments/assets/41fe3730-af3d-413f-b54a-c96d3de33a8f)
+
+
 # Feautures
 1. Dynamic icon and text display
 2. 2.4G Wireless
